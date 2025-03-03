@@ -97,9 +97,7 @@ The application utilizes the following ports:
 
 ## 10. Future Considerations
 
-* [Add any notes about potential future enhancements, known issues, or areas for improvement.]
-* [If there are any known bugs, document them here]
-* [AI implementation ideas]
+* Implementing a barcode scanner for easier inventory management.
 
 ## 11. Contact Information
 
